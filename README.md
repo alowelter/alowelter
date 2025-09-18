@@ -26,6 +26,7 @@ Editor:<br>
   <br>
   host:<br>
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Vultr-232F3E?style=for-the-badge&logo=Vultr&logoColor=white">
   <br>
   DB:<br>
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
