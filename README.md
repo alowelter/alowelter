@@ -4,8 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alowelter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
 </div>
 
-
-
 <div style="display: inline_block"><br>
 Editor:<br>
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
