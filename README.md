@@ -1,6 +1,6 @@
 ### Oi, sou o Marcelo 
 
-Desenvolvedor web. Trabalho com Rust, PHP e JavaScript, e administro servidores Linux.
+Engenheiro de Software, Gestor de TI, Assador de churrasco, TOmador de Chimarrão.
 
 **Linguagens**
 
