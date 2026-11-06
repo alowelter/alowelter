@@ -1,6 +1,7 @@
 ### Oi, sou o Marcelo 
 
 Software Engineer, IT Manager, Barbecue Master, Chimarrão Enthusiast
+   [![Chimarrão](https://img.shields.io/badge/Chimarr%C3%A3o-2E5E2B?style=for-the-badge&logo=data:image/png;base64,SEU_BASE64)](https://icons8.com.br)
 
 **Linguagens**
 
