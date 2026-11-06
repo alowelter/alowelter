@@ -1,8 +1,9 @@
 ### OI, sou o Marcelo.
 
 <div style="display: inline_block"><br>
-Editor:<br>
+  Main language:<br>
   <img align="center" src="https://img.shields.io/badge/Rust-242443?style=for-the-badge&logo=rust">
+  Editor:<br>
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <br>
   Toys:<br>
