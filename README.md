@@ -1,6 +1,6 @@
 ### Oi, sou o Marcelo 
 
-Engenheiro de Software, Gestor de TI, Assador de churrasco, TOmador de Chimarrão.
+Software Engineer, IT Manager, Barbecue Master, Chimarrão Enthusiast
 
 **Linguagens**
 
