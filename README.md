@@ -6,8 +6,7 @@
   <img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <br>
   Toys:<br>
-  <img align="center" src="[https://img.shields.io/badge/Rust-242443?style=for-the-badge&logo=rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=%23D34516&color=%231E2650
-)">
+  <img align="center" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=%23D34516&color=%231E2650">
   <img align="center" src="https://img.shields.io/badge/React.JS-242443?style=for-the-badge&logo=react&logoColor=88dded"><br>
   <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
